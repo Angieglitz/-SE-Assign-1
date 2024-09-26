@@ -12,7 +12,9 @@ Software engineering is important in the tech industry as it ensures the develop
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 1968: NATO Conference: The term "software engineering" was coined during a NATO conference to address the growing software crisis, where software complexity was surpassing the ability to manage it effectively.
+
 1980s: The Rise of Object-Oriented Programming (OOP): OOP became a major shift in software engineering, providing a more modular approach to software development, improving reusability and maintainability.
+
 2001: Agile Manifesto: The creation of the Agile Manifesto revolutionized how teams develop software by emphasizing flexibility, collaboration, and iterative progress.
 
 List and briefly explain the phases of the Software Development Life Cycle.
