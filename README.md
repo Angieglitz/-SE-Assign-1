@@ -3,6 +3,8 @@ Part 1: Introduction to Software Engineering
 
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
+
 Software engineering is the discipline of designing, developing, testing, and maintaining software systems in a structured, systematic, and efficient manner.
 Software engineering is important in the tech industry as it ensures the development of reliable, secure, and efficient systems, reduces costs and time for large-scale projects, and enhances system maintainability and scalability.
 
