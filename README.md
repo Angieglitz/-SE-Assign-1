@@ -78,6 +78,7 @@ Prompt engineering is the process of designing and refining the input prompts gi
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Example of a vague prompt- Explain coding.
+
 Example of an improved prompt- Explain the concept of coding, including its definition, the main programming languages used today, and its significance in software development. Provide examples of how coding is applied in real-world applications.
 
 The improved prompt is effective because it clearly defines the scope and focus of the explanation, ensuring that all relevant aspects of coding are addressed allowing for a deeper understanding of the concept.
