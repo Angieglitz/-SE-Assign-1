@@ -20,10 +20,15 @@ Identify and describe at least three key milestones in the evolution of software
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Requirement Analysis : Gathering and defining the software's requirements.
+
 Design: Creating detailed designs of the software architecture and user interface.
+
 Development: Writing the code to build the software.
+
 Testing: Ensuring the software works as intended by identifying and fixing bugs.
+
 Deployment: Releasing the software to the intended users.
+
 Maintenance: Updating and improving the software as necessary after release.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -33,7 +38,9 @@ Waterfall method uses a linear, sequential approach where each phase (requiremen
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer- Writes, debugs, and tests code to build the software application.
+
 Quality Assurance Engineer- Tests the software for bugs, ensures it meets requirements, and verifies that it functions correctly under various conditions.
+
 Project Manager- Oversees the project, coordinates between teams, manages timelines, and ensures the project stays on track and within budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -44,15 +51,21 @@ VCS are systems that track changes in code and allow multiple developers to coll
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Dealing with Complex Requirements- Break complex requirements into smaller, manageable tasks.
+
 Tight Deadlines- Break the project into smaller, manageable tasks, set realistic timelines, and use time management tools to track progress.
+
 Rapidly Evolving Technology-  Dedicate time for continuous learning, attend conferences or workshops, and participate in online communities to stay current with trends.
+
 Debugging Difficult Bugs- Use debugging tools and pair programming to identify and resolve bugs efficiently.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit Testing- Testing individual components of the software to ensure they work in isolation.
+
 Integration Testing- Verifying that different modules or components work together.
+
 System Testing- Testing the complete system for bugs or issues.
+
 Acceptance Testing- Ensuring the software meets the user's requirements and works in real-world scenarios.
 
 Part 2: Introduction to AI and Prompt Engineering
